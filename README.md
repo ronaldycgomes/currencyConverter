@@ -1,4 +1,4 @@
-# currencyConverter
+# Currency converter
 
 A simple converter project that you can convert dollar --> reais and Euro --> Reais. You can test the project in this link : https://codepen.io/ronaldycgomes/pen/vYgYEyY.
 
